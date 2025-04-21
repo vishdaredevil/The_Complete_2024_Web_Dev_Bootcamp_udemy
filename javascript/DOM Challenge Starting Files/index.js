@@ -1,0 +1,11 @@
+document.firstElementChild.lastElementChild.querySelector("ul").lastElementChild.innerHTML = "Angela";
+document.getElementsByTagName("li")[2].style.color="purple";
+document.getElementsByClassName("btn")[0].style.backgroundColor = "red";
+document.querySelector("li a").style.color = "pink";
+document.querySelector("li a").style.fontSize = "30px";
+document.querySelector("li a").style.textDecoration = "underline";
+document.querySelector("li a").style.fontWeight = "bold";
+document.querySelector("li a").style.fontFamily = "Arial";
+document.querySelector("li a").style.textTransform = "uppercase";
+document.querySelector("li a").style.textAlign = "center";
+document.querySelector("p").classList.add("huge");
